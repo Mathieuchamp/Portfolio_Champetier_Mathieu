@@ -1,0 +1,23 @@
+[
+    {
+        "image": "image5.webp",
+        "title": "Booki",
+        "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+        "link": "#",
+        "alt" : "booki"
+    },
+    {
+        "image": "image2.webp",
+        "title": "Mon Vieux grimoire",
+        "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+        "link": "#",
+        "alt" : "Mon Vieux grimoire"
+    },
+    {
+        "image": "image3.webp",
+        "title": "Kasa",
+        "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+        "link": "#",
+        "alt" : "Kasa"
+    }
+]
