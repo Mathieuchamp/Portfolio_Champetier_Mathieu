@@ -37,6 +37,7 @@
     background: url("images/image1.webp") no-repeat center center/cover;
     position: relative;
 }
+
 /* text css above hero image*/
 .hero_title {
     font-size: 4.5rem;
