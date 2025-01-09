@@ -11,13 +11,13 @@
         "title": "Kasa React",
         "text": "Dans ce projet, j'ai développé le front-end d'une application de location de logements avec React. J'ai utilisé Create React App pour démarrer, créé des composants interactifs, configuré la navigation avec React Router, et intégré des données via des appels API. Cela m'a permis de mieux comprendre et tester les applications web modernes de manière efficace.",
         "link": "https://github.com/Mathieuchamp/TesteurLogiciel_appli_location_immobiliere_React-main.git",
-        "alt" : "Mon Vieux grimoire"
+        "alt" : "Kasa"
     },
     {
         "image": "cypress.webp",
         "title": "Automatisez des tests Cypress",
         "text": "Dans ce projet, j'ai automatisé les tests API, les smoke tests, et deux scénarios fonctionnels critiques pour une application e-commerce, en utilisant Cypress. Cela m'a permis de renforcer mes compétences en stratégie de test automatisé, rédaction de scripts, et analyse des résultats pour garantir la qualité logicielle.",
         "link": "https://github.com/Mathieuchamp/TesteurLogiciel_Automatisez_des_tests_pour_une_boutique_en_ligne-main.git",
-        "alt" : "Kasa"
+        "alt" : "Cypress"
     }
 ]

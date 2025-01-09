@@ -86,7 +86,7 @@ function createPortfolioFromJSON() {
                 </div>
                 `;
 
-                row.appendChild(card);
+                row.appendChild(card); //Erreur d'ecriture ici
 
                 // If the index is a multiple of 3 or it's the last element, create a new row
                 if ((index + 1) % 3 === 0 || index === data.length - 1) {
