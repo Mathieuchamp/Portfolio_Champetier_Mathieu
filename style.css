@@ -26,6 +26,10 @@
     color: white !important;
 }
 
+.navbar{
+    background-color: rgba(0, 0, 0, 0.8);
+}
+
 .nav-item{
     color: #a249b7;
 }
@@ -39,11 +43,22 @@
 }
 
 /* text css above hero image*/
+
+
+
 .hero_title {
     font-size: 4.5rem;
+    color: #008000;
+    font-family: 'Uncial Antiqua', cursive;
+    transform: rotate(-12deg);
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.6);
 }
 .hero_desc {
     font-size: 2rem;
+    color: #008000;
+    font-family: 'Uncial Antiqua', cursive;
+    transform: rotate(-12deg);
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.6);
 }
 .hero-text {
     text-align: center;
@@ -105,5 +120,28 @@
 .contactColumn i {
     color: #198754;
 }
+
+#about {
+    background-image: url('./images/istockphoto-825821714-612x612.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    padding: 20px;
+    color: #fff;
+    width: 80%;
+    margin: 0 auto;
+    border: 5px solid #fff;
+    border-radius: 20px;
+    overflow: hidden;
+}
+
+.text-center {
+    color: black;
+}
+
+.col-lg-8{
+    color: black;
+}
+
 
 /* footer */
